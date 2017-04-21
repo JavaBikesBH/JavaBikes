@@ -27,6 +27,7 @@ public class AdminControl {
 				  break;
 				  default : System.out.println("You have put an invalid choice");
 
+				  //NEW LINE
 				}//switch
 		        
 			} // While
