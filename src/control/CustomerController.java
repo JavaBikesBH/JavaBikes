@@ -1,5 +1,6 @@
 package control;
 
+//Ahmad her fuck jer alle !
 import model.RegisterCustomer;
 
 import view.CustomerView;
